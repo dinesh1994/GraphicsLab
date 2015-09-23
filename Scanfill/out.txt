@@ -1,0 +1,407 @@
+State:1
+P1->vertex = 326,26
+P1->vertex = 314,10
+P1->vertex = 337,9
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+
+		SIZE-POI :0
+POI empty
+
+Edge - (326.000000,26.000000)-(314.000000,10.000000) :
+
+		SIZE-POI :2
