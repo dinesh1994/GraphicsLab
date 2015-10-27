@@ -1,26 +1,29 @@
 #include <iostream>
 #include <SDL/SDL.h>
+#include "Vertex.h"
+#include <stdio.h>
 
 using namespace std;
 
 float w=600,h=600;
+int state = 0;
 
-float abs(float x){ return ((x>0)?x:(-x)); }
+int abs(int x){ return ((x>0)?x:(-x)); }
 
 void putPixel(SDL_Surface* dest, int x, int y, int r, int g, int b)
 {
     if(x>=0 && x < dest->w && y>=0 && y < dest->h)
-        ((float*)dest->pixels)[y*dest->pitch/4+x]=SDL_MapRGB(dest->format,r,g,b);
+        ((Uint32*)dest->pixels)[y*dest->pitch/4+x]=SDL_MapRGB(dest->format,r,g,b);
 }
 
-void swapValue(float &a,float &b)
+void swapValue(int &a,int &b)
 {
-    float temp = a;
+    int temp = a;
     a = b;
     b = temp;
 }
 
-void drawLine(SDL_Surface* dest, float x0, float y0, float x1, float y1)
+void drawLine(SDL_Surface* dest, int x0, int y0, int x1, int y1)
 {
     bool step = abs(x1-x0) < abs(y1-y0);
     if(step)

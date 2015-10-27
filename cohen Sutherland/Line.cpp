@@ -1,26 +1,26 @@
-#include <iostream>
-#include <SDL/SDL.h>
+#include "Line.h"
+#include "external.h"
 
 using namespace std;
 
 float w=600,h=600;
 
-float abs(float x){ return ((x>0)?x:(-x)); }
+int abs(int x){ return ((x>0)?x:(-x)); }
 
 void putPixel(SDL_Surface* dest, int x, int y, int r, int g, int b)
 {
     if(x>=0 && x < dest->w && y>=0 && y < dest->h)
-        ((float*)dest->pixels)[y*dest->pitch/4+x]=SDL_MapRGB(dest->format,r,g,b);
+        ((Uint32*)dest->pixels)[y*dest->pitch/4+x]=SDL_MapRGB(dest->format,r,g,b);
 }
 
-void swapValue(float &a,float &b)
+void swapValue(int &a,int &b)
 {
-    float temp = a;
+    int temp = a;
     a = b;
     b = temp;
 }
 
-void drawLine(SDL_Surface* dest, float x0, float y0, float x1, float y1)
+void drawLine(SDL_Surface* dest, int x0, int y0, int x1, int y1)
 {
     bool step = abs(x1-x0) < abs(y1-y0);
     if(step)
@@ -43,9 +43,9 @@ void drawLine(SDL_Surface* dest, float x0, float y0, float x1, float y1)
     for(int i=x0;i<x1;i++)
     {
         if(step)
-            putPixel(dest, y, h-i, 255, 255, 255);
+            putPixel(dest, y, h-i);
         else
-            putPixel(dest, i, h-y, 255, 255, 255);
+            putPixel(dest, i, h-y);
         SDL_Flip(dest);
         error += roundError;
 
